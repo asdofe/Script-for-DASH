@@ -1,9 +1,11 @@
 # Purpose
+
 ## Scripts for Generate MPEG-DASH including MPD file 
 
 * bad format -> raw 264 -> mpeg-dash including single MPD file
 
 ---
+
 ## Prerequisites
 
 ### My Env
@@ -13,9 +15,15 @@
 
 ### Executable Binary 
 
-* x264
+* x264(The binary is in the repo)
 
 * MP4Box
+
+### Video Source
+
+* My Video Source is called sintel_4k.mov 
+
+---
 
 ### Directory Layout
 
