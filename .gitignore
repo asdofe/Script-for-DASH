@@ -1,0 +1,3 @@
+output_batch/*
+assets/*
+!.gitkeep
